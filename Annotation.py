@@ -75,6 +75,7 @@ def segment_image(image_path):
 
     cv2.destroyAllWindows()
 #HELLO
+print("hello world")
 # Example usage
 if __name__ == "__main__":
     PathNames = r"C:\Users\dolko\OneDrive\Desktop\clone\immage"
